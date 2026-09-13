@@ -33,9 +33,9 @@ Based on the smoothed traffic index, the system classifies the traffic condition
 
 The repository includes four sample videos for testing the system. Each sample video can demonstrate one of the three supported traffic conditions:
 
--Normal Traffic: The number and density of vehicles are relatively low, and vehicles are moving at a normal speed.
--Heavy Traffic: The number and density of vehicles are higher, but vehicles are still moving.
--Traffic Jam: Vehicle density is high, and vehicles are moving very slowly or are almost stationary
+- **Normal Traffic**: The number and density of vehicles are relatively low, and vehicles are moving at a normal speed.
+- **Heavy Traffic**: The number and density of vehicles are higher, but vehicles are still moving.
+- **Traffic Jam**: Vehicle density is high, and vehicles are moving very slowly or are almost stationary
 
 These videos are provided as examples, but the program is not limited to them. Other traffic videos can also be tested with the system, as long as they are compatible with the expected video input.
 
