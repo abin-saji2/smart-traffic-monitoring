@@ -88,7 +88,7 @@ traffic-monitoring-yolo/
 ├── README.md
 ├── requirements.txt
 ├── Presentation/
-│   └── project_presentation.pptx
+│   └── project_presentation.pdf
 ├── videos/
 │   ├── 1.mp4
 │   ├── 2.mp4
