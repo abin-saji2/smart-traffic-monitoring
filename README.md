@@ -43,6 +43,10 @@ These videos are provided as examples, but the program is not limited to them. O
 
 A Persian PowerPoint presentation explaining the project is available in the `Presentation` folder.
 
+## Output
+
+A video demonstrating the project's output is available in the Output folder. It shows the system identifying the three traffic conditions.
+
 ## Requirements
 
 - Python 3.x
